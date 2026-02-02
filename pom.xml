@@ -71,7 +71,7 @@
 
   <profiles>
 
-    <!-- 🔹 FULL REGRESSION -->
+    <!--  FULL REGRESSION -->
     <profile>
       <id>Regression</id>
       <build>
@@ -91,7 +91,7 @@
     </profile>
 
 
-    <!-- 🔹 PURCHASE TESTS -->
+    <!--  PURCHASE TESTS -->
     <profile>
       <id>Purchase</id>
       <build>
@@ -111,7 +111,7 @@
     </profile>
 
 
-    <!-- 🔹 ERROR VALIDATION -->
+    <!-- ERROR VALIDATION -->
     <profile>
       <id>ErrorValidationTests</id>
       <build>
@@ -131,7 +131,7 @@
     </profile>
 
 
-    <!-- 🔹 CUCUMBER ONLY -->
+    <!--  CUCUMBER ONLY -->
     <profile>
       <id>CucumberTests</id>
       <build>
